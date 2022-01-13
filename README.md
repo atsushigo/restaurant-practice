@@ -1,5 +1,5 @@
-# component-making
-
+# restaurant-practice
+https://codesandbox.io/s/upbeat-stitch-jhh7b
 ## Project setup
 ```
 npm install
